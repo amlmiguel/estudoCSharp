@@ -41,11 +41,11 @@
             static void Main(){
             Carro c1 = new Carro("Rapidão","Vermelho");
 
-            Console.WriteLine("Cor {0}:", c1.cor);
-            Console.WriteLine("nome {0}:", c1.nome);
-            Console.WriteLine("rodas {0}:", c1.rodas);
-            Console.WriteLine("vel. max {0}:", c1.velMax);
-            Console.WriteLine("Ligado {0}", c1.getLigado());
+            Console.WriteLine("Cor: {0}", c1.cor);
+            Console.WriteLine("nome: {0}", c1.nome);
+            Console.WriteLine("rodas: {0}", c1.rodas);
+            Console.WriteLine("vel. max: {0}", c1.velMax);
+            Console.WriteLine("Ligado: {0}", c1.getLigado());
 
         }
     }

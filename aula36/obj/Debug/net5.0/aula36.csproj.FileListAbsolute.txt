@@ -1,0 +1,16 @@
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\bin\Debug\net5.0\aula36.exe
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\bin\Debug\net5.0\aula36.deps.json
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\bin\Debug\net5.0\aula36.runtimeconfig.json
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\bin\Debug\net5.0\aula36.runtimeconfig.dev.json
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\bin\Debug\net5.0\aula36.dll
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\bin\Debug\net5.0\ref\aula36.dll
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\bin\Debug\net5.0\aula36.pdb
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\obj\Debug\net5.0\aula36.csprojAssemblyReference.cache
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\obj\Debug\net5.0\aula36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\obj\Debug\net5.0\aula36.AssemblyInfoInputs.cache
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\obj\Debug\net5.0\aula36.AssemblyInfo.cs
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\obj\Debug\net5.0\aula36.csproj.CoreCompileInputs.cache
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\obj\Debug\net5.0\aula36.dll
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\obj\Debug\net5.0\ref\aula36.dll
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\obj\Debug\net5.0\aula36.pdb
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula36\obj\Debug\net5.0\aula36.genruntimeconfig.cache

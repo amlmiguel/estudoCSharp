@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m.mascarenhas.leite\\Desktop\\projetos\\EstudoCSharp\\aula34\\aula34.csproj": {}
+    "C:\\Users\\m.mascarenhas.leite\\Desktop\\projetos\\EstudoCSharp\\aula36\\aula36.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m.mascarenhas.leite\\Desktop\\projetos\\EstudoCSharp\\aula34\\aula34.csproj": {
+    "C:\\Users\\m.mascarenhas.leite\\Desktop\\projetos\\EstudoCSharp\\aula36\\aula36.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.mascarenhas.leite\\Desktop\\projetos\\EstudoCSharp\\aula34\\aula34.csproj",
-        "projectName": "aula34",
-        "projectPath": "C:\\Users\\m.mascarenhas.leite\\Desktop\\projetos\\EstudoCSharp\\aula34\\aula34.csproj",
+        "projectUniqueName": "C:\\Users\\m.mascarenhas.leite\\Desktop\\projetos\\EstudoCSharp\\aula36\\aula36.csproj",
+        "projectName": "aula36",
+        "projectPath": "C:\\Users\\m.mascarenhas.leite\\Desktop\\projetos\\EstudoCSharp\\aula36\\aula36.csproj",
         "packagesPath": "C:\\Users\\m.mascarenhas.leite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.mascarenhas.leite\\Desktop\\projetos\\EstudoCSharp\\aula34\\obj\\",
+        "outputPath": "C:\\Users\\m.mascarenhas.leite\\Desktop\\projetos\\EstudoCSharp\\aula36\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\m.mascarenhas.leite\\AppData\\Roaming\\NuGet\\NuGet.Config",

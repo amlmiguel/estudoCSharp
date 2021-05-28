@@ -4,8 +4,7 @@ class Jogador {
     private int energia;
     private string nome;
 
-    public Jogador(string nome){
-        this.nome = nome;
+    public Jogador(){
         energia = 100;
     }
 
@@ -19,6 +18,16 @@ class Jogador {
         return nome;
     }
 
+    public void setName(string nome ){
+        if(nome.Length > 10){
+            this.nome = null;
+            Console.WriteLine("O nome é muito grande");
+        }else{
+            this.nome = nome;
+            Console.WriteLine("Nome cadastrado com sucesso");
+        }
+
+    }
     public void setEnergia(int e){
         if(e<0){
             if(energia + e < 0){
@@ -41,9 +50,10 @@ class Jogador {
 
 class Aula33 {
     static void Main(){
-        Jogador j1 = new Jogador("Satoshi");
-
-        j1.setEnergia(-130);
+        Jogador j1 = new Jogador();
+        
+        j1.setName("Satoshi");
+        j1.setEnergia(-10);
         Console.WriteLine("Nome...: {0}", j1.getNome());
         Console.WriteLine("Energia: {0}", j1.getEnergia());
     }
