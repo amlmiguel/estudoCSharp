@@ -1,0 +1,5 @@
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula40\obj\Debug\net5.0\aula40.csprojAssemblyReference.cache
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula40\obj\Debug\net5.0\aula40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula40\obj\Debug\net5.0\aula40.AssemblyInfoInputs.cache
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula40\obj\Debug\net5.0\aula40.AssemblyInfo.cs
+C:\Users\m.mascarenhas.leite\Desktop\projetos\EstudoCSharp\aula40\obj\Debug\net5.0\aula40.csproj.CoreCompileInputs.cache
